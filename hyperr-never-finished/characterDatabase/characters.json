@@ -1,0 +1,16 @@
+{
+  "chatacters": {
+    "jonseyFortnite": {
+      "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/GB/en/999/EP1464-CUSA07669_00-AV00000000000006/1572857359000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000".
+      "name": "Jonsey"
+    },
+    "steveMinecraft": {
+      "image": "https://gamepedia.cursecdn.com/minecraft_gamepedia/f/f3/Steve.png",
+      "name": "Steve"
+    },
+    "guestROBLOX": {
+      "image": "https://vignette.wikia.nocookie.net/roblox/images/f/f2/Roblox_guest.png/revision/latest?cb=20180914191123",
+      "name" "Guest"
+    }
+  }
+}

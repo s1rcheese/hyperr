@@ -1,0 +1,19 @@
+{
+  "name": "hyperr2",
+  "version": "1.0.0",
+  "description": "It's Hyperr but its the second version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "s1r_cheese",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^11.13.4",
+    "discord.js": "^11.4.2",
+    "quick.db": "^7.0.0-b22",
+    "ytdl-core": "^0.20.4"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
