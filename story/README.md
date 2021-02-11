@@ -9,4 +9,4 @@ To host the bot I kept my [potato computer (Surface Go)](http://example.com) on 
 
 I had been called "gay" (which I wasn't) for creating it. But I was admin in the guy-who-called-me-gay's Discord Server, and I later banned all everyone I could, and deleted all the bots on his Discord Server.
 
-I orignally worked with a guy from the Arab Republic of Egypt to work on the bot, he did contributed some stuff to the bot.
+I orignally worked with a Egyptian guy to work on the bot, he did contributed some stuff to the bot, though I did most of the stuff.
